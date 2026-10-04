@@ -1,0 +1,87 @@
+2025-07-21 04:25:11,235 - INFO - === وضع التجريب ===
+2025-07-21 04:25:11,235 - INFO - إلى: +966501234567
+2025-07-21 04:25:11,236 - INFO - الرسالة: رسالة اختبار من تطبيق سكاكر
+2025-07-21 04:25:11,236 - INFO - === انتهاء الرسالة ===
+2025-07-21 04:25:11,236 - INFO - Scheduler started
+2025-07-21 04:25:11,237 - INFO - تم بدء نظام الجدولة
+2025-07-21 04:25:11,238 - INFO - Added job "تنبيه: اختبار سريع" to job store "default"
+2025-07-21 04:25:11,238 - INFO - تم جدولة التنبيه: اختبار سريع في 04:25:16
+2025-07-21 04:25:16,000 - INFO - Running job "تنبيه: اختبار سريع (trigger: cron[hour='4', minute='25', second='16'], next run at: 2025-07-21 04:25:16 EDT)" (scheduled at 2025-07-21 04:25:16-04:00)
+2025-07-21 04:25:16,002 - INFO - === وضع التجريب ===
+2025-07-21 04:25:16,002 - INFO - إلى: +966501234567
+2025-07-21 04:25:16,002 - INFO - الرسالة: 🔔 تذكير من تطبيق سكاكر
+
+حان وقت أخذ العلاج: اختبار سريع
+
+لا تنس أخذ دوائك في الوقت المحدد للحفاظ على صحتك.
+
+مع تحيات تطبيق سكاكر 💊
+2025-07-21 04:25:16,002 - INFO - === انتهاء الرسالة ===
+2025-07-21 04:25:16,003 - INFO - تم إرسال التنبيه بنجاح: اختبار سريع إلى 0501234567
+2025-07-21 04:25:16,003 - INFO - Job "تنبيه: اختبار سريع (trigger: cron[hour='4', minute='25', second='16'], next run at: 2025-07-22 04:25:16 EDT)" executed successfully
+2025-07-21 04:25:17,238 - INFO - Scheduler has been shut down
+2025-07-21 04:25:17,239 - INFO - تم إيقاف نظام الجدولة
+2025-07-21 13:22:02,116 - ERROR - فشل في إرسال الرسالة: {"code":21266,"message":"'To' and 'From' number cannot be the same: +96655661XXXX","more_info":"https://www.twilio.com/docs/errors/21266","status":400}
+2025-07-21 13:23:53,383 - ERROR - فشل في إرسال الرسالة: {"code":21659,"message":"'From' +966556613204 is not a Twilio phone number or Short Code country mismatch","more_info":"https://www.twilio.com/docs/errors/21659","status":400}
+2025-07-21 13:30:53,406 - ERROR - فشل في إرسال الرسالة: {"code":21612,"message":"Message cannot be sent with the current combination of 'To' (+96655661XXXX) and/or 'From' (+1 659 271 2413) parameters","more_info":"https://www.twilio.com/docs/errors/21612","status":400}
+2025-07-21 13:34:36,635 - INFO - === وضع التجريب ===
+2025-07-21 13:34:36,636 - INFO - إلى: +966556613204
+2025-07-21 13:34:36,636 - INFO - الرسالة: رسالة تجريبية من تطبيق سكاكر 🔔
+2025-07-21 13:34:36,637 - INFO - === انتهاء الرسالة ===
+2025-07-21 13:45:53,483 - INFO - Scheduler started
+2025-07-21 13:45:53,484 - INFO - تم بدء نظام الجدولة
+2025-07-21 13:51:14,648 - INFO - Scheduler started
+2025-07-21 13:51:14,648 - INFO - تم بدء نظام الجدولة
+2025-07-21 13:51:49,733 - INFO - Scheduler started
+2025-07-21 13:51:49,733 - INFO - تم بدء نظام الجدولة
+2025-07-21 13:52:47,760 - INFO - Added job "تنبيه: علاج الضغط" to job store "default"
+2025-07-21 13:52:47,762 - INFO - تم جدولة التنبيه: علاج الضغط في 13:56:00
+2025-07-21 13:53:24,076 - INFO - Scheduler has been shut down
+2025-07-21 13:53:24,077 - INFO - تم إيقاف نظام الجدولة
+2025-09-18 00:17:16,124 - INFO - Scheduler started
+2025-09-18 00:17:16,125 - INFO - تم بدء نظام الجدولة
+2025-09-18 00:17:16,125 - INFO - Added job "تنبيه: علاج الضغط" to job store "default"
+2025-09-18 00:17:16,125 - INFO - تم جدولة التنبيه: علاج الضغط في 13:56:00
+2025-09-18 00:17:59,880 - INFO - Added job "تنبيه: 12" to job store "default"
+2025-09-18 00:17:59,881 - INFO - تم جدولة التنبيه: 12 في 00:25:01
+2025-09-18 00:18:46,206 - INFO - Added job "تنبيه: تجربة" to job store "default"
+2025-09-18 00:18:46,206 - INFO - تم جدولة التنبيه: تجربة في 12:20:00
+2025-09-18 00:19:13,999 - INFO - Added job "تنبيه: علاج السكر" to job store "default"
+2025-09-18 00:19:14,000 - INFO - تم جدولة التنبيه: علاج السكر في 00:20:00
+2025-09-18 00:20:00,002 - INFO - Running job "تنبيه: علاج السكر (trigger: cron[hour='0', minute='20', second='0'], next run at: 2025-09-18 00:20:00 +03)" (scheduled at 2025-09-18 00:20:00+03:00)
+2025-09-18 00:20:00,142 - INFO - === وضع التجريب ===
+2025-09-18 00:20:00,142 - INFO - إلى: +966556613204
+2025-09-18 00:20:00,143 - INFO - الرسالة: 🔔 تذكير من تطبيق سكاكر
+
+حان وقت أخذ العلاج: علاج السكر
+
+لا تنس أخذ دوائك في الوقت المحدد للحفاظ على صحتك.
+
+مع تحيات تطبيق سكاكر 💊
+2025-09-18 00:20:00,144 - INFO - === انتهاء الرسالة ===
+2025-09-18 00:20:00,145 - INFO - تم إرسال التنبيه بنجاح: علاج السكر إلى 0556613204
+2025-09-18 00:20:00,228 - INFO - Job "تنبيه: علاج السكر (trigger: cron[hour='0', minute='20', second='0'], next run at: 2025-09-19 00:20:00 +03)" executed successfully
+2025-09-18 00:20:33,926 - INFO - Scheduler has been shut down
+2025-09-18 00:20:33,927 - INFO - تم إيقاف نظام الجدولة
+2025-09-18 00:24:38,760 - INFO - Scheduler started
+2025-09-18 00:24:38,760 - INFO - تم بدء نظام الجدولة
+2025-09-18 00:24:38,761 - INFO - Added job "تنبيه: علاج الضغط" to job store "default"
+2025-09-18 00:24:38,761 - INFO - تم جدولة التنبيه: علاج الضغط في 13:56:00
+2025-09-18 00:24:38,761 - INFO - Added job "تنبيه: 12" to job store "default"
+2025-09-18 00:24:38,761 - INFO - تم جدولة التنبيه: 12 في 00:25:01
+2025-09-18 00:24:38,761 - INFO - Added job "تنبيه: تجربة" to job store "default"
+2025-09-18 00:24:38,762 - INFO - تم جدولة التنبيه: تجربة في 12:20:00
+2025-09-18 00:24:38,762 - INFO - Added job "تنبيه: علاج السكر" to job store "default"
+2025-09-18 00:24:38,762 - INFO - تم جدولة التنبيه: علاج السكر في 00:20:00
+2025-09-18 00:24:58,527 - INFO - Added job "تنبيه: سكر" to job store "default"
+2025-09-18 00:24:58,527 - INFO - تم جدولة التنبيه: سكر في 00:26:00
+2025-09-18 00:25:01,002 - INFO - Running job "تنبيه: 12 (trigger: cron[hour='0', minute='25', second='1'], next run at: 2025-09-18 00:25:01 +03)" (scheduled at 2025-09-18 00:25:01+03:00)
+2025-09-18 00:25:02,046 - ERROR - فشل في إرسال الرسالة: {"code":21608,"message":"The number +96657380XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +96657380XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
+2025-09-18 00:25:02,048 - ERROR - فشل في إرسال التنبيه: 12 إلى 0573806901
+2025-09-18 00:25:02,081 - INFO - Job "تنبيه: 12 (trigger: cron[hour='0', minute='25', second='1'], next run at: 2025-09-19 00:25:01 +03)" executed successfully
+2025-09-18 00:26:00,008 - INFO - Running job "تنبيه: سكر (trigger: cron[hour='0', minute='26', second='0'], next run at: 2025-09-19 00:26:00 +03)" (scheduled at 2025-09-18 00:26:00+03:00)
+2025-09-18 00:26:00,820 - ERROR - فشل في إرسال الرسالة: {"code":21612,"message":"Message cannot be sent with the current combination of 'To' (+96655661XXXX) and/or 'From' (+16592712413) parameters","more_info":"https://www.twilio.com/docs/errors/21612","status":400}
+2025-09-18 00:26:00,825 - ERROR - فشل في إرسال التنبيه: سكر إلى 0556613204
+2025-09-18 00:26:00,928 - INFO - Job "تنبيه: سكر (trigger: cron[hour='0', minute='26', second='0'], next run at: 2025-09-19 00:26:00 +03)" executed successfully
+2025-09-18 00:32:13,350 - INFO - Scheduler has been shut down
+2025-09-18 00:32:13,353 - INFO - تم إيقاف نظام الجدولة

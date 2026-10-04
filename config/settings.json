@@ -1,0 +1,16 @@
+{
+  "app_name": "سكاكر",
+  "version": "1.0.0",
+  "author": "بدور الدوسري",
+  "window_size": "800x600",
+  "theme": "dark",
+  "sms_api": {
+    "provider": "demo",
+    "demo_mode": true
+  },
+  "notifications": {
+    "sound_enabled": true,
+    "popup_enabled": true
+  },
+  "data_file": "reminders.json"
+}
